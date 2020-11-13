@@ -1,0 +1,2 @@
+# Descenso-de-gradiente
+demostración
